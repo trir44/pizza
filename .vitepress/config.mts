@@ -12,7 +12,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Sidebar :3',
         items: [
           { text: 'Who is Kira?', link: '/who-is-kira' }
         ]

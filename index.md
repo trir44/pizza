@@ -12,11 +12,9 @@ hero:
       link: /who-is-kira
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Made by Mr. Wilson
+    details: this shit took FOREVER lmfao
+  - title: Kira Certified
+    details: very sigma
 ---
 
